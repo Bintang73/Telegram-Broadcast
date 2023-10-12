@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "delay": "^5.0.0",
+    "input": "^1.0.1",
+    "moment": "^2.29.4",
+    "node-cron": "^3.0.2",
+    "telegram": "^2.18.36"
+  },
+  "name": "telebot",
+  "version": "1.0.0",
+  "description": "no specific desc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "bintang73",
+  "license": "ISC",
+  "devDependencies": {}
+}
